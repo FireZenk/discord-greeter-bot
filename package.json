@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Greeter bot for Renesansz-Playground",
   "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
   "repository": "git@github.com:renesansz/discord-greeter-bot.git",
   "author": "Renemari Padillo",
   "license": "MIT",
